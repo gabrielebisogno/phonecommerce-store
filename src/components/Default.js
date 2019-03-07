@@ -4,7 +4,7 @@ export default class Details extends Component {
   render() {
     return(
       <div>
-         <h3>Hello from Default</h3>
+         <h3>404 PAGE NOT FOUND</h3>
       </div>
     )
   }
